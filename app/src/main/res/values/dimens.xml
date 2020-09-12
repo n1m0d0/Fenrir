@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginBody">20dp</dimen>
+    <dimen name="cardPaddingTitle">6dp</dimen>
+    <dimen name="cardPaddingBody">20dp</dimen>
+    <dimen name="cardTextTitle">25dp</dimen>
+    <dimen name="cardTextBody">16dp</dimen>
+    <dimen name="cardTextLink">19dp</dimen>
+    <dimen name="cardMarginComponent">5dp</dimen>
+</resources>

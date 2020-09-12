@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fenrir</string>
+    <string name="business">Ajatic</string>
+    <string name="age">2020</string>
+    <string name="urlSite">https://fenrir.ajatic.com/</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="search">Buscar</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="forgotPassword">Se te olvidó tu contraseña</string>
+    <string name="noConnection">No cuenta con conexión a Internet</string>
+    <string name="invalidData">Datos no validos</string>
+    <string name="official">Funcionario</string>
+</resources>
